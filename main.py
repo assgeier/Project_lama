@@ -1,3 +1,2 @@
 def greet(name):
-    return f"nuinu, {name}!"
-    return f"Buy, {name}!"
+    return f"Hello from feature, {name}!"
