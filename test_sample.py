@@ -1,3 +1,5 @@
-import main
+from main import greet
 
-main.test()
+def test_greet():
+    assert greet("world") == "Hello, world!"
+    

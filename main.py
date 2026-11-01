@@ -1,2 +1,2 @@
-def test():
-    print("Ничего")
+def greet(name):
+    return f"Hello, {name}!"
